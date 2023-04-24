@@ -1,0 +1,14 @@
+
+.balance{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    position: sticky;
+}
+.bal-arrow{
+    color: white;
+    position: absolute;
+    margin-top: 3%;
+}

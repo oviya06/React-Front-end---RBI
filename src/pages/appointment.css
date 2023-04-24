@@ -1,0 +1,123 @@
+.appointment-all{
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    height: 50vh;
+}
+.appointment-all2{
+    background-color: rgb(79, 82, 70);
+    height: 160vh;
+}
+.app-card{
+    max-width: 50%;
+    max-height: 100%;
+    margin-left: 47%;
+    padding-top: 6%;
+    position: absolute;
+}
+#app-key-head{
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 30%;
+}
+#app-key-defn{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20%;
+}
+#app-key-quto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 9%;
+    padding-top: 6%;
+    font-size: 120%;
+}
+#app-key-expect{
+    margin-left: 40%;
+    padding-top: 7%;
+    font-size: 200%;
+    font-family: cursive;
+}
+#app-expect-sub{
+    font-family: 'Courier New',cursive;
+    margin-left: 6%;
+}
+.app-key-button{
+    position: absolute;
+
+}
+.app-card-talk{
+    max-width: 20%;
+    max-height: 30%;
+    margin-left: 7%;
+    margin-top:4%;
+    clip-path: circle();
+}
+.app-card-discover{
+    max-width: 20%;
+    max-height: 90%;
+    margin-left: 37%;
+    margin-top: -20%;
+    clip-path: circle();
+    position: absolute;
+}
+.app-card-plan{
+    max-width: 20%;
+    max-height: 90%;
+    margin-left: 67%;
+    margin-top: -20%;
+    clip-path: circle();
+    position: absolute;
+}
+#app-t-talk{
+    position: absolute;
+    margin-left: 16%;
+    font-style:italic;
+    
+}
+#app-t-discover{
+    position: absolute;
+    margin-left: 46%;
+    font-style:italic;
+}
+#app-t-plan{
+    position: absolute;
+    margin-left: 76%;
+    font-style:italic;
+}
+#app-plan-defn{
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 66%;
+}
+#app-discover-defn{
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 36%;
+}
+#app-talk-defn{
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 6%;
+}
+.app-paper-1{
+    position: absolute;
+    height: 39%;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 24%;
+}
+#app-pap-head{
+    margin-left: 25%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic ;
+}
+#app-pap-defn{
+    margin-left: 23%;
+    color: black;
+
+}
+#app-pap-butt{
+    margin-left: 32%;
+    background-color: grey;
+}

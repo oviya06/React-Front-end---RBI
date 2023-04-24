@@ -1,0 +1,64 @@
+.forgot-all{
+    background-image: url('../assest/forget-grey.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    height: 100vh;
+}
+.forgot-pap{
+    max-width: 40%;
+    max-height: 160%;
+    margin-left: 30%;
+    margin-top: 4%;
+    position: absolute;
+}
+.un-1{
+    margin-left: 16%;
+}
+.un-2{
+    margin-left: 10%;
+}
+.un-3{
+    margin-left: 9%;
+}
+.un-5{
+    position: absolute;
+    margin-left: 19%;
+    margin-top: -7%;
+}
+.un-7{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: -7%;
+}
+.un-9{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: -7%;
+}
+.un-10{
+    position: absolute;
+    margin-left: 59%;
+    margin-top: 3%;
+}
+.un-11{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 3%;
+}
+.un-12{
+    margin-left: 7%;
+    margin-top: 19%;
+}
+.un-card{
+    max-height: 150%;
+    max-width: 17%;
+    margin-left: 4%;
+    margin-top: -1%;
+    position: absolute;
+}
+.un-99{
+    margin-left: 23%;
+    position: absolute;
+    margin-top: 1%;
+}

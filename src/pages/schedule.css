@@ -1,0 +1,58 @@
+.schedule-all{
+    background-color: rgb(219, 214, 214);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    height: 100vh;
+}
+.sch-bar{
+     width: 100%;
+}
+#sch-p1{
+    position: absolute;
+    margin-top: -10%;
+}
+.sch-paper-full{
+    position: absolute;
+    height: 65%;
+    width: 50%;
+    margin-left:23%;
+    margin-top: 6%;
+}
+.sch-p-2{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 2%;
+    font-size: 200%;
+}
+#pap-sch-t-1{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: 4%;
+}
+.pap-sch-in1{
+    position: absolute;
+    margin-left: 30%;
+    height: 5%;
+    width: 55%;
+    margin-top: 3.5%;
+}
+.sch-icon{
+    position: absolute;
+    margin-left: 90%;
+    margin-top: 4%;
+}
+#sch-butt-con{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 65%;
+    height: 4%;
+    width: 7%;
+}
+#sch-butt-can{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 57%;
+    height: 4%;
+    width: 7%;
+}

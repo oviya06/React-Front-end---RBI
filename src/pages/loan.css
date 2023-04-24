@@ -1,0 +1,256 @@
+.loan{
+    background-color: rgb(95, 80, 99);
+    background-size: cover;
+    height: 180vh;
+    position: sticky;
+}
+.paper{
+    width: 350px;
+    height: 350px;
+    margin-left: 9%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+    position: absolute;
+}
+.paper1{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 38%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.paper2{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 67%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.paper3{
+    width: 350px;
+    height: 350px;
+    margin-left: 9%;
+    margin-top: 34%;
+    position: absolute;
+}
+.paper4{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 38%;
+    margin-top: 34%;
+}
+.paper5{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 67%;
+    margin-top: 34%;
+}
+.paper6{
+    width: 350px;
+    height: 350px;
+    margin-left: 9%;
+    margin-top: 62%;
+    position: absolute;
+}
+.bx-4{
+    margin-left: 19%;
+    padding-top: 6%;
+    position: absolute;
+}
+.bx-btn1{
+    margin-left: 16%;
+    margin-top: 24%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn2{
+    margin-left: 45%;
+    margin-top: 24%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn3{
+    margin-left: 74%;
+    margin-top: 24%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn4{
+    margin-left: 16%;
+    margin-top: 53%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn5{
+    margin-left: 45%;
+    margin-top: 53%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn6{
+    margin-left: 74%;
+    margin-top: 53%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx-btn7{
+    margin-left: 16%;
+    margin-top: 81%;   
+    position: absolute;
+    background-color: rgb(95, 80, 99);
+    opacity: 97%;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.bx1-4{
+    margin-left: 16%;
+    padding-top: 6%;
+    position: absolute;
+    
+}
+.home{
+    margin-left: 13%;
+    padding-top: 7.5%;
+    position: absolute;
+    
+}
+.bx2-4{
+    margin-left: 45%;
+    padding-top: 6%;
+    position: absolute;
+}
+.school{
+    margin-left: 42%;
+    padding-top: 7.5%;
+    position: absolute;
+}
+.bx3-4{
+    margin-left: 74%;
+    padding-top: 6%;
+    position: absolute;
+}
+.person{
+    margin-left: 71%;
+    padding-top: 7.5%;
+    position: absolute;
+}
+.bx4-4{
+    margin-left: 16%;
+    padding-top: 35%;
+    position: absolute;
+}
+.fintech{
+    margin-left: 13%;
+    padding-top: 36.5%;
+    position: absolute;
+}
+.bx5-4{
+    margin-left: 45%;
+    padding-top: 35%;
+    position: absolute;
+}
+.gold{
+    margin-left: 42%;
+    padding-top: 36.5%;
+    position: absolute;
+}
+.bx6-4{
+    margin-left: 74%;
+    padding-top: 35%;
+    position: absolute;
+}
+.car{
+    margin-left: 71%;
+    padding-top: 36.5%;
+    position: absolute;
+}
+.bx7-4{
+    margin-left: 16%;
+    padding-top: 63%;
+    position: absolute;
+}
+.yoddha{
+    margin-left: 13%;
+    padding-top: 64.5%;
+    position: absolute;
+}
+.hr-1{
+    width: 20%;
+    background-color: black;
+    color: black;
+}
+.hello{
+    position: absolute;
+    margin-left:170%;
+}
+.p-1{
+    margin-left: 11%;
+    position: absolute;
+    margin-top: 13%;
+}
+.p-2{
+    margin-left: 40%;
+    position: absolute;
+    margin-top: 13%;
+}
+.p-3{
+    margin-left: 70%;
+    position: absolute;
+    margin-top: 13%;
+}
+.p-4{
+    margin-left: 11%;
+    position: absolute;
+    margin-top: 42%;
+}
+.p-5{
+    margin-left: 40%;
+    position: absolute;
+    margin-top: 42%;
+}
+.p-6{
+    margin-left: 70%;
+    position: absolute;
+    margin-top: 42%;
+}
+.p-7{
+    margin-left: 11%;
+    position: absolute;
+    margin-top: 69%;
+}
+#loan111-h3{
+    position: absolute;
+    margin-left: 45%;
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}

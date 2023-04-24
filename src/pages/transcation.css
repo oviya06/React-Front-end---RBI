@@ -1,0 +1,36 @@
+.transcation{
+    background-image: url('../assest/black.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: static;
+}
+#head{
+    color: white;
+    font-style: oblique;
+    margin-left: 2%;
+    padding-top: 2.5%;
+    margin-top: 0%;
+
+}
+.contain{
+    margin-top: 6%;
+}
+.filter{
+    color: white;
+    margin-left: 93%;
+    margin-top: 3%;
+    position: absolute;
+}
+.icon{
+    color: white;
+    margin-left: 97%;
+    margin-top: 3%;
+    position: absolute;
+}
+.arrow{
+    color: white;
+    position: absolute;
+    margin-top: 3%;
+}
+

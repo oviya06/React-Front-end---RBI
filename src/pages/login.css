@@ -1,0 +1,80 @@
+.login-form-container{
+    background-image: url("../assest/yell.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: static;
+}
+.login-form{
+    display: flex;
+    flex-direction: column ;
+    text-align: center;
+}
+.lab{
+    text-align: left;
+    padding: 0.25rem 0;
+    color: white;
+    margin-left: 13%;
+}
+.in{
+    margin:0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    width: 385px;
+    margin-left: 13%;
+    
+}
+  
+.login-button{
+    border: none;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(53, 53, 66);
+    width: 100px;
+    margin-left: 22%;
+}
+  
+.login-enroll{
+    background: none;
+    border: none;
+    color: rgb(53, 53, 66);
+    margin-left: 13%;
+    margin-top: -3%;
+    cursor: pointer;
+}
+.login-fuser{
+    background: none;
+    border: none;
+    color: rgb(53, 53, 66);
+    margin-left: 32%;
+    cursor: pointer;
+}
+.login-forgot{
+    color: rgb(53, 53, 66);
+    position: absolute;
+    margin-left: 28%;
+}
+#wel{
+    margin-top: 0%;
+    color: white;
+    margin-left: 20%;
+    padding-top: 10%;
+}
+#lol{
+    color: white;
+    margin-left: 24%;
+}
+#sub{
+    color: white;
+    margin-left: 21%;
+}
+.login-card{
+    max-height: 90%;
+    max-width: 4%;
+    margin-left: 15%;
+    margin-top: 9%;
+    position: absolute;
+}
